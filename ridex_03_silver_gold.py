@@ -10,7 +10,7 @@
 
 # ── RECOVERY CELL — run this first every session ─────────────
 
-YOUR_NAME = "CHANGE_ME"   # must match Notebooks 1 & 2
+YOUR_NAME = "Diya"   # must match Notebooks 1 & 2
 
 if YOUR_NAME == "CHANGE_ME":
     raise Exception("Change YOUR_NAME to your first name before running!")
